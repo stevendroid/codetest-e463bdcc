@@ -1,6 +1,6 @@
 ## Fibonacci viewer
 
-*Please read these instructions carefully.* This test assumes familiarity with GIT, and with Android application architecture. The point of this test is to assess coding style and acumen in applciation architecture--not to make you solve silly problems. As such, the core problem in this test has been crafted to provide a balance of difficulty and simplicity. Here's a couple of administrative to go over first:
+*Please read these instructions carefully.* This test assumes familiarity with GIT, and with Android application architecture. The point of this test is to assess coding style and acumen in application architecture--not to make you solve silly problems. As such, the core problem in this test has been crafted to provide a balance of difficulty and simplicity. Here's a couple of administrative to go over first:
 
 1. If you don't already have a GitHub account, sign up for free. 
 2. Before you start the test, send an [email](mailto:jduv@aimconsulting.com) with your GitHub username. Wait for a response granting you push access to this repository.
